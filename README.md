@@ -2,7 +2,7 @@
 
 <div>
   
-<p>Olá, me chamo Maria Luisa, tenho 19 anos e sou natural de Fortaleza, Ceará. Atualmente, estou cursando Engenharia de computação na UFC. Sou apaixonada por tecnologia, e estou sempre em busca de novos conhecimentos.<br>Sou integrante do laboratório de Computação Física, e utilizo em minhas pesquisas a tecnologia de sistemas embarcados. Ademais, busco me especializar na linguagem de programação Java, e procuro experiências profissionais!</p>
+<p>Olá, me chamo Maria Luisa, graduanda em Engenharia de computação na Universidade Federal do Ceará. Apaixonada por tecnologia, estou sempre em busca de novos conhecimentos.<br>Ademais, sou integrante do laboratório de Computação Física, e utilizo em minhas pesquisas a tecnologia de sistemas embarcados. </p>
   
 </div>
 
